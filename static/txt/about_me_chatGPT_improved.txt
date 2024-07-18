@@ -1,0 +1,10 @@
+
+Certainly! Here’s a refined version of your "About Me" section:
+
+Hello, I'm Eduardo Gil, originally from Madrid, Spain. I hold an MSc in Industrial Engineering from Universidad Carlos III of Madrid. For nearly 12 years, I developed my career in the manufacturing industry, focusing on various operational areas within the automotive sector, such as Lean Manufacturing, Quality, and Process Engineering.
+
+In late 2018, after a fulfilling career, I decided to revisit my passion for computers, software, and the digital world. This led me to the emerging fields of Data Science and Big Data, which perfectly combined my interests in software development and business acumen.
+
+Inspired by the wise words of Walt E. Disney, "Ask yourself if what you're doing today will guide you to what you want to be tomorrow," I made a bold decision in 2019. I left my position at a prestigious automotive company to embark on a lifelong dream: a Round The World trip while preparing to shift my career towards the exciting realm of data science.
+
+Five years later, I am deeply immersed in the data ecosystem and enjoying every moment. Beyond my professional experience, I am driven by a constant pursuit of learning and improvement. I thrive on projects that challenge me and provide opportunities to learn new techniques and tools, enabling me to enhance my performance and deliver tangible results.
