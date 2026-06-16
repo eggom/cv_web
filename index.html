@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -2385,7 +2385,7 @@
                         <div><a class="footer__link" target="_blank" href="https://profesordata.com/2020/09/01/reduccion-de-la-dimensionalidad-analisis-de-componentes-principales-pca/">Read Here</a></div>
                     </div>
                 </div>
-                <p class="footer__copy">&#169; Eduardo Gil Gonz&aacute;lez-Madro&ntilde;o 2024. All right reserved</p>
+                <p class="footer__copy">&#169; Eduardo Gil Gonz&aacute;lez-Madro&ntilde;o <span id="current-year">2024</span>. All right reserved</p>
             </div>
         </footer>
     </main>
@@ -2402,6 +2402,9 @@
     <script src="static/js/swiper-bundle.min.js"></script>
     <script src="static/js/main.js"></script>
     <script src="static/js/preloader.js"></script>
+    <script>
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
     <!--================== Mobile Obfuscation ====================-->
     <script>
         const mobiletag = document.querySelector('.mobile-hidden');
